@@ -6,7 +6,7 @@ Driver Installer for the Atmel Xplained CDC driver
 ## Prerequisits ##
 `Visual Studio 2010`
 
-`.Net 3.5`
+`.Net3.5`
 
 The project should be able to run in `Visual Studio 2013`.
 
