@@ -19,5 +19,5 @@ The driver name can be found in the Device Manager.
 
 * `getDriverFound()`  is used to check whether a driver is installed.
 
-* `runDriverInstaller(path)` The DriverChecker project contains a program to install any Driver using `C#` , this function can be run to open the external program.
-The external program requires the drivers to be INF format. The drivers should be located in `%ProgramRoot%/drivers`. This requires Administrator rights.
+* `runDriverInstaller(path)` The DriverChecker project contains a program to install any Driver using `C#` , this function can be run to open the CDCDriverInstaller program.
+The CDCDriverInstaller requires the drivers to be INF format. The drivers should be located in `%ProgramRoot%/drivers` and requires Administrator rights.
