@@ -19,4 +19,5 @@ The driver name can be found in the Device Manager.
 
 * `getDriverFound()`  is used to check whether a driver is installed
 
-* `runDriverInstaller(path)` The DriverChecker project contains a program to install the Atmel CDC driver, this function can be run to open the external program
+* `runDriverInstaller(path)` The DriverChecker project contains a program to install the Atmel CDC driver, this function can be run to open the external program.
+The external program requires the drivers to be INF format. The drivers should be located in *root*/drivers.
