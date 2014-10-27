@@ -1,0 +1,8 @@
+C:\Users\s115482\Documents\CDCDriverInstaller\CDCDriverInstaller\bin\Release\CDCDriverInstaller.exe
+C:\Users\s115482\Documents\CDCDriverInstaller\CDCDriverInstaller\bin\Release\CDCDriverInstaller.pdb
+C:\Users\s115482\Documents\CDCDriverInstaller\CDCDriverInstaller\obj\x86\Release\CDCDriverInstaller.csproj.GenerateResource.Cache
+C:\Users\s115482\Documents\CDCDriverInstaller\CDCDriverInstaller\obj\x86\Release\CDCDriverInstaller.exe
+C:\Users\s115482\Documents\CDCDriverInstaller\CDCDriverInstaller\obj\x86\Release\CDCDriverInstaller.pdb
+C:\Users\s115482\Documents\CDCDriverInstaller\CDCDriverInstaller\bin\Release\CDCDriverInstaller.exe.config
+C:\Users\s115482\Documents\CDCDriverInstaller\CDCDriverInstaller\obj\x86\Release\CDCDriverInstaller.MainForm.resources
+C:\Users\s115482\Documents\CDCDriverInstaller\CDCDriverInstaller\obj\x86\Release\CDCDriverInstaller.Properties.Resources.resources
