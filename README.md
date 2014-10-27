@@ -10,7 +10,7 @@ Driver Installer for the Atmel Xplained CDC driver
 The project should be able to run in `Visual Studio 2013`.
 
 ## Functions ##
-The driver installer requires one to add the DriverChecker.cs class in the project.
+For convenience one can add the DriverChecker.cs class in the project.
 
 Afterwards one can call the checker as follows:
 * `DriverChecker checker = new DriverChecker("driver name)`
